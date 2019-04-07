@@ -1,0 +1,96 @@
+# Fill in, commit and push each day.
+# Group Member: Umair Farooqi
+Oct 28, 2018
+	Yesterday :
+	Today     : Did not start Assignment
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     : Did not start Assignment
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     : Did not start Assignment
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     : Did not start Assignment
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     : Had first scrum meeting, Claimed UserStory4
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday : Had first scrum meeting, claimed UserStory4
+	Today     : Finished Userstory 4 and pushed
+	Obstacles : Merge conflicts while pushing.
+
+Nov 3, 2018
+	Yesterday : Had first scrum meeting, claimed UserStory4
+	Today     :Familiarized myself with code and Userstories
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2018
+	Yesterday :
+	Today     : Thought about which userstory/bugs I would claim.
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday : Thought about which userstory/bugs I would claim.
+	Today     : Claimed Bug05.
+	Obstacles :
+
+Nov 7, 2018
+	Yesterday : Claimed Bug05
+	Today     : Had scrum meeting.
+	Obstacles : discovered new bug with changing thickness of the shapes.
+
+Nov 8, 2018
+	Yesterday :Discovered new bug, had scrum meeting	
+	Today     : Worked on bug 5	
+	Obstacles : Trouble understanding how to fix bug5
+
+Nov 9, 2018
+	Yesterday : Worked on bug5
+	Today     : Found partial solution to bug05
+	Obstacles : old lines erased when new line is drawn in squiggle
+
+Nov 10, 2018
+	Yesterday : found partial solution to bug05
+	Today     : fixed and pushed bug05
+	Obstacles : finding way to save old lines drawn in squiggle. New bug found where squiggle doesn't show while being drawn
+	
+Nov 11, 2018
+	Yesterday : finished and pushed bug05
+	Today     : fixed and pushed bug23
+	Obstacles : had to change code to match the newly implemented command design pattern
+	
+Nov 12, 2018
+	Yesterday : Had to re-implement squiggle to match the new command design pattern	
+	Today     : Began working on Polyline(UserStory8)
+	Obstacles : Polyline not connecting and is saving lines made while dragging
+
+Nov 13, 2018
+	Yesterday : Began working on Polyline
+	Today     : Continued working on Polyline
+	Obstacles : Polyline connects but draws extra line. Had to fix bug with squiggle, will have to reimplement in future.
+
+Nov 14, 2018
+	Yesterday : Continued work on Polyline
+	Today     : Finished Userstory8 and pushed
+	Obstacles : Getting Polyline to connect, not draw extra lines
+	
+Nov 15, 2018
+	Yesterday : Continued work on Polyline
+	Today     : Finished bug28 and pushed, Finished on UserStory 9 and pushed.
+	Obstacles : merge conflicts

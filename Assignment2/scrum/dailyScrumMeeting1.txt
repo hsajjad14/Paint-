@@ -1,0 +1,95 @@
+# Fill in, commit and push each day.
+# Group Member: Haider Sajjad, sajjadh2
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     : Finished UserStory1, started UserStory5, edited scrum files.
+	Obstacles : Getting the right formula for radius.
+
+Nov 3, 2018
+	Yesterday : UserStory1
+	Today     : started UserStory5, works for circle and squiggle (those are the stories completed)
+	Obstacles : figuring out that the canvas repaints every object in the model, and how to give each object a colour.
+
+Nov 4, 2018
+	Yesterday : Finished Story1, started 5
+	Today     : Finished UserStory5,
+	Obstacles :	Fixed merge issues with story 1,2,3,4,5
+
+Nov 5, 2018
+	Yesterday : Completed story 5
+	Today     : Started and completed story 6
+	Obstacles : Identifying bugs, and adding them to the scrum documents
+
+Nov 6, 2018
+	Yesterday : Completed story 6
+	Today     : Fixed merge issues between the stories
+	Obstacles : Identified which branch contained the most up to date things,
+	 						and making it the head
+
+
+Nov 7, 2018
+	Yesterday : Fixed merge issues
+	Today     : Fixed more merge issues with Zain's story, and completed Bug12
+	Obstacles : It was tricky figuring out which rectangle was currently being drawn, and
+							and giving it a seperate condition for drawing.
+
+Nov 8, 2018
+	Yesterday : Fixed more merge issues with Zain's story, and completed Bug12
+	Today     : Fixed bugs in UserStory7, attempted bug 10, Started Bug4
+	Obstacles : The squiggle option, while still drawing.
+
+Nov 9, 2018
+	Yesterday : Fixed bugs in UserStory7 and started Bug4
+	Today     : Finished bug4, added new bugs 13-20
+	Obstacles : The squiggle option, while still drawing, and making a parent class for all the Shapes
+
+Nov 10, 2018
+	Yesterday : Finished bug4, added new bugs 13-20
+	Today     : Started working on Bug13-15, Finished Bug13-15
+	Obstacles : figuring which mouse-event would trigger events inside to occur as soon as it happens
+	i.e mouse-entered is better than mouse-clicked for exiting the program.
+
+Nov 11, 2018
+	Yesterday : Started working on Bug13-15, Finished Bug13-15
+	Today     : Finished architecture for bug 3, created 3 classes to complete the command architecture.
+	Obstacles : Many of the variables werent being shared properly in dragcommand
+
+Nov 12, 2018
+	Yesterday : Finished architecture for bug 3, created 3 classes to complete the command architecture.
+	Today     : Rectangles in dragcommand werent being drawn properly, due to variable sharing with other comands
+	Obstacles : Finding out which variables share which commands.
+
+Nov 13, 2018
+	Yesterday : Rectangles in dragcommand werent being drawn properly, due to variable sharing with other comands
+	Today     : Improved UI, Added a colour pannel which makes choosing colours easier, and gives more options
+	Obstacles : finding and making an array of all the colour hex codes.
+
+Nov 14, 2018
+	Yesterday :
+	Today     :
+	Obstacles :

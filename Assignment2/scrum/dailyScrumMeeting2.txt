@@ -1,0 +1,98 @@
+# Fill in, commit and push each day.
+# Group Member: Zain Kazmi
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday : 
+	Today     : Had Scrum meeting with group. Claimed User Story 2. Familiarized myself with codebase. 
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday :
+	Today     : Started working on UserStory 2. Branched out onto UserStory2 in Git.I  started working on a branch.
+	Obstacles : Merge Conflict occured when commiting my changes to my main branch.  
+
+Nov 4, 2018
+	Yesterday : Completed UserStory2.
+	Today     : Started working on UserStory7. Created UserStory7 branch.
+	Obstacles : Was hoping to work on implementing a design pattern while working on UserSroy7.
+
+Nov 5, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday : Completed UserStory2
+	Today     : Worked on and completedUserStory7. Abandoned objective to transfer to a new design pattern.
+	Obstacles : Unfamiliar with JavaFx line thickness
+
+Nov 7, 2018
+	Yesterday : Finished UserStory7
+	Today     : Fixed a bug in UserStory7. Met with team for Scrum meeting. Claimed Bug 3
+	Obstacles : Issues caused due to merge error. 
+
+Nov 8, 2018
+	Yesterday : Claimed Bug3, finished UserStory7 and met with team.
+	Today     : Started Bug3 to convert to a Command architecture. 
+	Obstacles : Had to learn all the specs of Command/Strategy design pattern.
+
+Nov 9, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 10, 2018
+	Yesterday : Claimed Bug 3 and learned Command and Strategy design Patterns.
+	Today     : Completed bug 3. Implemented using Command Design Pattern. Claimed Bug7
+	Obstacles : Complications arose when merging with other team member's work.
+	
+Nov 11, 2018
+	Yesterday : Completed Bug3
+	Today     : Completed Bug7
+	Obstacles : Rectangle broke after implementing bug3 and bug7 
+	
+Nov 12, 2018
+	Yesterday : Claimed Bug 8
+	Today     : Worked on Bug8, later deleted the branch.
+	Obstacles : Code was not modular, team decided to re-factor the code base.
+
+Nov 13, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday : Worked on Bug8
+	Today     : Discussed with team on how to re-factor code. We decided on different design patterns that
+	can optimize our code and make it easy to add new features.
+	Obstacles : our codebase was not really "Clean" due to improperly handled merge conflicts
+
+Nov 15, 2018
+	Yesterday: Made desicion to re-factor master
+	Today: Finished Bug8, assisted team members working on Bug 9. Updated Archetecure files.
+	Obstacles: Today is the due date!!
+	

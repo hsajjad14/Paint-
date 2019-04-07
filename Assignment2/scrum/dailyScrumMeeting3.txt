@@ -1,0 +1,96 @@
+# Fill in, commit and push each day.
+# Group Member: Yeshoda Harry-Paul
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     :
+	Obstacles :	
+
+Oct 31, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     : Had group meeting, claimed user story 3
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     : 
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday :
+	Today     : Started and finished user story 3, claimed bug 1
+	Obstacles : Trying to get the rectangle to display on the canvas, trying to get the shapes to form rectangles and not squares.
+
+Nov 5, 2018
+	Yesterday : Started and finished user story 3, claimed bug 1
+	Today     : Researched buttons and how to implement Icons
+	Obstacles : Most of the websites use a JButton which involves Swing, which we aren't allowed to use
+
+Nov 6, 2018
+	Yesterday :  Researched buttons and how to implement Icons
+	Today     : Finished Bug 1, claimed bug 2
+	Obstacles : Trying to set the graphic for the first bug
+
+Nov 7, 2018
+	Yesterday : Finished Bug 1, claimed bug 2
+	Today     : Finished bug 2 
+	Obstacles : Wanted to check with the group to see if the bugs were ok 
+
+Nov 8, 2018
+	Yesterday : Finished bug 2 
+	Today     :
+	Obstacles :
+
+Nov 9, 2018
+	Yesterday :
+	Today     :
+
+Nov 10, 2018
+	Yesterday :
+	Today     : Had group scrum meeting. Talked to make sure that the group was all right with the current implementation of the bugs I made. Made new bugs that would make the program better.  Claimed bugs 16 (adding colour selecting grid) and 17 (implementing square). Started working on 16
+	Obstacles : Had trouble with the spacing and making the mode selecting buttons take up 3 columns
+
+	
+Nov 12, 2018
+	Yesterday : Claimed bugs and had scrum meeting 
+	Today     : Finished bugs 16 and 17
+	Obstacles : Having merge issues since I've been working on an older version of the program
+
+Nov 12, 2018
+	Yesterday : Finished bugs 16 and 17
+	Today     : Since I was working on an older version of the file and we changed the architecture, I had to redo my bugs to suit the current architecture.
+	Obstacles : Broke the canvas colour 
+
+Nov 13, 2018
+	Yesterday : redid bugs to suit new architecture 
+	Today     : Claimed bug 13 and Fixed the canvas colour bug that was broken from yesterday; made it so that when the colour is selected and then the change canvas colour button is pressed the canvas will change colour. 
+	Obstacles : 
+
+Nov 14, 2018
+	Yesterday :
+	Today     : 
+	Obstacles :
+
+Nov 15, 2018
+	Yesterday :
+	Today     : Going to try and clean up the mode select to make it look nicer
+	Obstacles :
